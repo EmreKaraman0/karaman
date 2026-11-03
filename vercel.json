@@ -1,15 +1,8 @@
 {
-  "trailingSlash": true,
-  "redirects": [
-    {
-      "source": "/ses-kalkani",
-      "destination": "/mobil_ses_kalkani/",
-      "permanent": false
-    },
-    {
-      "source": "/ses-kalkani/",
-      "destination": "/mobil_ses_kalkani/",
-      "permanent": false
-    }
+  "rewrites": [
+    { "source": "/ses-kalkani", "destination": "/ses-kalkani.html" },
+    { "source": "/ses-kalkani/", "destination": "/ses-kalkani.html" },
+    { "source": "/mobil_ses_kalkani", "destination": "/ses-kalkani.html" },
+    { "source": "/mobil_ses_kalkani/", "destination": "/ses-kalkani.html" }
   ]
 }
