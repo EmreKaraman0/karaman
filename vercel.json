@@ -1,0 +1,15 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/ses-kalkani",
+      "destination": "/mobil_ses_kalkani/",
+      "permanent": false
+    },
+    {
+      "source": "/ses-kalkani/",
+      "destination": "/mobil_ses_kalkani/",
+      "permanent": false
+    }
+  ]
+}
