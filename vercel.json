@@ -3,6 +3,11 @@
     { "source": "/ses-kalkani", "destination": "/ses-kalkani.html" },
     { "source": "/ses-kalkani/", "destination": "/ses-kalkani.html" },
     { "source": "/mobil_ses_kalkani", "destination": "/ses-kalkani.html" },
-    { "source": "/mobil_ses_kalkani/", "destination": "/ses-kalkani.html" }
+    { "source": "/mobil_ses_kalkani/", "destination": "/ses-kalkani.html" },
+    { "source": "/vipbaxtir", "destination": "/vipbaxtir/index.html" },
+    { "source": "/vipbaxtir/", "destination": "/vipbaxtir/index.html" },
+    { "source": "/styles.css", "destination": "/vipbaxtir/styles.css" },
+    { "source": "/app.js", "destination": "/vipbaxtir/app.js" },
+    { "source": "/assets/:path*", "destination": "/vipbaxtir/assets/:path*" }
   ]
 }
